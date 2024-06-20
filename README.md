@@ -10,11 +10,10 @@ Preferences Management: Manage customer preferences for personalized service.
 Data Structure: Each book is characterized by its author, title, and category.
 
 
-Technologies Used:
+  Technologies Used:
 Python: Programming language used for system implementation.
 MySQL: Database management system for storing book and customer data.
 Object-Oriented Programming (OOP): Utilized to structure the codebase for modularity and reusability.
-
 
 
 PORTUGUÊS BRASILEIRO:
